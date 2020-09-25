@@ -1,6 +1,11 @@
 footer {
     background: var(--color-bg-tertiary);
     color: var(--color-text-secondary);
-    line-height: 24px;
     padding: var(--padding-large);
+
+    p{
+        display: flex;
+        justify-content: flex-start;
+    }
+
 }
