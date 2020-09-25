@@ -8,6 +8,7 @@
 
     --margin-thin: 10px;
     --margin-large: 20px;
+}
 
     //Media queries breakpoints
     $vw-thin: 320px;
@@ -15,4 +16,3 @@
     $vw-medium: 768px;
     $vw-large: 992px;
     $vw-huge: var(--max-width);
-}
